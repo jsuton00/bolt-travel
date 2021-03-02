@@ -1,0 +1,83 @@
+.contact-form {
+  align-items: center;
+  width: 100%;
+  padding: 0.25rem 0;
+}
+
+.contact-form-content {
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 0.5rem 2rem;
+}
+
+.contact-form-row {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 0.25rem 0.5rem;
+}
+
+.input-row .contact-form-input {
+  flex-basis: 32%;
+  width: 100%;
+  height: 100%;
+  padding: 0.25rem;
+  margin: 0 0.25rem;
+  text-align: center;
+}
+
+.input-row .textarea-message {
+  flex-basis: 100%;
+  width: 100%;
+  padding: 0.25rem;
+}
+
+.checkbox-row .check-options {
+  width: 100%;
+  height: 100%;
+  padding: 0.25rem;
+}
+
+.contact-form-input input[type='text'],
+.contact-form-input input[type='email'],
+.contact-form-input textarea {
+  border: 0.125rem solid #f1f3f7;
+  background-color: #fff;
+  border-radius: 1.5rem;
+  box-shadow: 0 0.125rem 0.25rem 0 hsla(220, 27%, 96%, 0.2);
+  width: 100%;
+  height: 100%;
+  padding: 0.75rem 1.5rem;
+}
+
+.check-options label {
+  width: 100%;
+  font-weight: 500;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+}
+
+.check-options input[type='checkbox'] {
+  padding-right: 0.25rem;
+  margin-right: 0.25rem;
+  box-shadow: 0 0.125rem 0.25rem 0 hsla(220, 27%, 96%, 0.2);
+  cursor: pointer;
+}
+
+.submit-row {
+  padding: 0.25rem 0.5rem 0.5rem;
+  text-align: center;
+}
+
+.submit-row .btnSubmit {
+  border: 0.0625rem solid #0c94e9;
+  background-color: #0c94e9;
+  border-radius: 1.5rem;
+  box-shadow: 0 0.125rem 0.25rem 0 hsla(220, 27%, 96%, 0.2);
+  width: 100%;
+  color: #fff;
+  font-weight: 500;
+  padding: 0.5rem 1.5rem;
+}

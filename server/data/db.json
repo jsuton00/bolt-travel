@@ -1,0 +1,887 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"postId": 2677,
+			"name": "Welcome to Bolt Travel's Blog",
+			"postDate": "2018-02-26 12:26:55",
+			"postType": "post",
+			"categories": ["news & updates"],
+			"postTags": ["blog", "bolt-travel"],
+			"title": "Welcome to Bolt Travel's Blog",
+			"content": {
+				"text": "<h3><strong>The Place of Travel Inspirations</strong></h3><p>This blog is created by a group of young people with strong interests and experience in travel. The purpose of the blog is that it serves as a place where you, members and visitors, can find and read travel-related articles that can help you get inspired and plan your future travel holidays while staying at our accommodations.</p><p>On this blog, you can read articles that explore each destination in general and through different aspects of travelling, depending on your preferences of travelling, such as learning about the culture and customs, gastronomy, natural landscapes and local events. </p><p>You may also find articles that give travel tips and insights, provide lists of recommended things to do, places to go that are based on our travel expertise with the information collected from local people living in these destinations.</p><p>Altogether, by visiting our blog, we hope that it will help you gain a perfect understanding and image of the described destinations with detailed guiding information and high-quality photos. Trusting that it will inspire you and help you imagine and plan a perfect holiday while staying at our holiday homes.</p>",
+				"images": [
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609789869/Bolt%20Travel%20Images/BlogImages/Welcome/welcome.jpg",
+						"altText": "Welcome to Bolt Travel's Blog"
+					}
+				]
+			},
+			"excerpt": "Welcome to Bolt Travel blog. Read our travel blog posts so that they may inspire you to plan your future holidays.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609789869/Bolt%20Travel%20Images/BlogImages/Welcome/welcome.jpg",
+				"altText": "Welcome to Bolt Travel's Blog"
+			}
+		},
+		{
+			"id": 2,
+			"postId": 2867,
+			"name": "Bolt Travel: The Meaning of The Name Bolt Travel",
+			"postDate": "2018-03-14 12:33:21",
+			"postType": "post",
+			"categories": ["news & updates"],
+			"postTags": ["acronym", "bolt", "bolt-travel", "name"],
+			"title": "Bolt Travel: The Meaning of The Name Bolt Travel",
+			"content": {
+				"text": "<h3>The Meaning of The Name Bolt Travel</h3><p>Read this article to learn how we designed the name Bolt Travel for our travel agency.</p><p>At first, we thought it would be very easy to think of the perfect name for our agency, but in fact, it was very difficult. We would come up with several names that would describe our business perfectly and would be easy to remember and then later we would discover that somebody else has the same or similar name as we thought. However, after the very long process of designing the name, we came up with the name Bolt Travel.</p><p>The name Bolt Travel has two meanings. The first meaning of the name can be understood through the image of a thunderbolt which describes the online business of Bolt Travel as a fast, secure and reliable online booking platform that will help book your perfect holiday in just a few clicks.</p><p>The second meaning of the name, what is very interesting, is that the name Bolt is actually an acronym which in detail describes our business.</p>",
+				"images": [
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609863538/Bolt%20Travel%20Images/BlogImages/Bolt%20Travel%20-%20Name/lightning-bolt.jpg",
+						"altText": "Lightning Bolt"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609863520/Bolt%20Travel%20Images/BlogImages/Bolt%20Travel%20-%20Name/bolt-travel-name.png",
+						"altText": "Bolt Travel: The Meaning of The Name Bolt Travel"
+					}
+				]
+			},
+			"excerpt": "Read the article to discover how we designed the name Bolt Travel for our travel agency.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609863520/Bolt%20Travel%20Images/BlogImages/Bolt%20Travel%20-%20Name/bolt-travel-name.png",
+				"altText": "Bolt Travel: The Meaning of The Name Bolt Travel"
+			}
+		},
+		{
+			"id": 3,
+			"postId": 2686,
+			"name": "Our Story: The Founding of Bolt Travel",
+			"postDate": "2018-02-27 10:12:30",
+			"postType": "post",
+			"categories": ["news & updates"],
+			"postTags": ["bolt-travel", "founding", "qualities", "story"],
+			"title": "Our Story: The Founding of Bolt Travel",
+			"content": {
+				"text": "<p>Read our story about how Bolt Travel was founded. Check out to see what our mission and goals are. Understand our values and qualities.</p><h3>Our Story</h3><h4>History</h4><p>On the 19th October 2017, Bolt Travel was created. Bolt Travel was founded by a group of young people with university degrees in different fields with strong interests and experiences in travel.</p><h4>Mission & Objectives</h4><p>The company’s aim is to use our knowledge and skills to create new and unique products and services which will provide you with the best and unforgettable travel experiences. We offer a wide range of high-quality travel products and services.</p><h3>Our Qualities</h3><p>Comparing with other travel agencies, Bolt Travel can be described through the following qualities which make us better than them:</p><h4><strong>Local Experts</strong></h4><p>We will provide you with our expert knowledge and insights in the best accommodations, travel sites and amenities in Croatia. The information that is provided about the apartment is accurate because team members visit each apartment before putting it on the webpage.</p><h4>Quality Service</h4><p>We will always strive in bringing and providing you with the best quality products and services as you expect.</p><h4><strong>Personalised Services</strong></h4><p>We will always try to specially adapt our products, services and our relationship to your specific needs, wishes, and desires.</p><h4>Value for Money</h4><p>We guarantee that you will always get what you are paying for, even more.</p>",
+				"images": [
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609868696/Bolt%20Travel%20Images/BlogImages/Our%20Story/our-story.jpg",
+						"altText": "Our Story: The Founding of Bolt Travel"
+					}
+				]
+			},
+			"excerpt": "Read our story about how Bolt Travel was founded. Check out to see what our mission and goals are. Understand our values and qualities.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1603546581/Bolt%20Travel%20Images/BlogImages/Cover%20Images/road-368719_uwzww4.jpg",
+				"altText": "Our Story: The Founding of Bolt Travel"
+			}
+		},
+		{
+			"id": 4,
+			"postId": 2947,
+			"name": "Discover Split, Croatia – Travel Guide by Bolt Travel",
+			"postDate": "2018-03-25 23:35:35",
+			"postType": "post",
+			"categories": ["destination"],
+			"postTags": [
+				"blog",
+				"cathedral-of-st-domnius",
+				"croatia",
+				"destination",
+				"diocletians-cellars",
+				"diocletians-palace",
+				"peristyle",
+				"pjaca",
+				"sights",
+				"split",
+				"travel",
+				"travel-guide"
+			],
+			"title": "Discover Split, Croatia – Travel Guide by Bolt Travel",
+			"content": {
+				"text": "<h2>A City with the Twist of Ancient and Modern All in One Place</h2><p>Visit Split, the largest city in Dalmatia and the second largest city in Croatia.</p><p>This vibrant and crazy city is the perfect place for travellers of different ages, tastes and interests. Located in a unique setting, Split offers the right balance of everything to do and more, including visiting ancient and historical attractions such as Diocletian’s Palace, Cathedral of St. Domnius, Peristyle and the Substructures of the Diocletian’s Palace); sitting at one of the dozens bars and restaurants available in the old town centre; on Riva or the Western bank; do some sport activities on the Marjan Hill while looking at the gorgeous panoramic view of Split; spending some time on the most popular beaches such as Bacvice or Kastelet and enjoying the busy nightlife in Split from listening to live music on the open-air to bopping to the rhythm and beat of the most popular disco and night clubs in city.</p><p>All of these in Split, travellers can accomplish in a day or two. Because the city is well connected by land or sea, Split represents an ideal spot for travellers to stay longer and plan their trips to various destinations such as the towns of Trogir, Makarska, Omis and Dubrovnik, islands of Brac, Solta, Hvar, Korcula and Vis, and national parks Plitvice, Krka and Kornati.</p><p>Before hopping over to discover other destinations, let's explore together the city of Split.</p><h2>About Split</h2><h3>Brief History</h3><p>Although the beginnings of Split are traditionally associated with the construction of Diocletian's Palace in 305 AD, the city was founded several centuries earlier as the Greek colony of Aspálathos, or Spálathos in the 3<sup>rd</sup> or 2<sup>nd</sup> century BC. After the Greeks, the entire area became under the Roman rule when between 295 and 305 AD the Roman Emperor Diocletian built his magnificent palace from which Split has developed.</p><p>After the Roman Empire fell, Split has gone through a turbulent history of moving between different kingdoms and countries. Split experienced the Croatian then later the Hungary-Croatian Kingdom, the Venetian Republic, the French Empire the Austrian-Hungary Empire, Yugoslavia and ending in modern Croatia. Their influence on Split can be found in the city’s architecture, gastronomy, culture and customs which all together make the city so unique.</p><h3>Location</h3><p>Split is positioned on the Adriatic coast, in central Dalmatia. The old town is situated on a peninsula between the eastern part of the Gulf of Kastela and the Split Channel. Split is surrounded by the mountains inland (e.g. Mosor, Kozjak and Marjan Hill) and by the islands of Brač, Šolta, Hvar and Čiovo.</p><h3>Weather</h3><p>Thanks to the Mediterranean climate, winters are mild in Split, lasting from December to March, although the actual experience of winter can really be felt only in February. For this reason, all the comforts of Split can be savoured for most of the winter, from sightseeing the Diocletian’s Palace to the tastings of all the delicacies in numerous restaurants and at the Christmas fair on the Riva during the Christmas holidays. It is quite frequent to spend sunny winter mornings sitting at cafes.</p><p>Spring in Split lasts from March to June, and it is one of the best seasons for visiting Split. The average temperature is the ideal 20°C, abundant in sunny periods perfect for walking on Marjan, excursions, and even swimming in the late spring. During this season Split begins bursting with life and it is the ideal period for walking through the streets and city squares.</p><p>Although the high temperatures characterize summers in Split, sometimes even over 35°C, starting from June and to mid-September, you can find refreshment in the beautiful Adriatic sea at many of Split's beaches or on the nearby islands. During the summer nights, you can unwind through different events, such as the Days of Diocletian, Split Summer Festival and many others, where everyone can find something for themselves, and where you can experience the true Mediterranean hustle and bustle.</p><p>Autumn in Split lasts from the end of September to December. Although not a favourite part of the year to some, in many ways it is the most beautiful time of the year to visit Split. It is the time when the temperature of the sea is ideal for swimming, the summer heat is at its low and the main season is still on.</p><h2>Top Sights in Split</h2><p><strong>Diocletian’s Palace </strong>- This huge, fortress-like palace served as a residence for a Roman emperor &amp; the military garrison. </p><p><strong>Cathedral of Saint Domnius</strong> - Historic 4<sup>th</sup>-century Catholic church. Built-in 305 AD, this cathedral dedicated to the city's patron saint has a Romanesque bell tower. It is the oldest cathedral in the world. </p><p><strong>Peristyle</strong> – The central square of Diocletian’s Palace which is surrounded by the Cathedral of Saint Domnius, Vestibule and the Substructures</p><p><strong>Diocletian's Cellars</strong> – One of the best preserved ancient complexes of their kind in the world. They can be accessed from Riva through the Brass Gate or climbing downstairs from Peristyle. In the past, they were used as a storage facility, a residential area and for producing wine and pressing olives. Today, they are usually used as a place for organising different manifestations, selling unique valuable souvenirs and sightseeing. </p><p><strong>Riva (The Promenade)</strong> – The most popular and most important public place in Split. Thrusting with cafes and restaurants, it is an ideal place for having your morning or afternoon coffee or for an evening out with friends over drinks. There are also numerous cultural and entertainment events being held throughout the year.</p><p><strong>Pjaca (People’s Square – Narodni Trg)</strong> – The main square in Split. Located outside of the Diocletian’s Palace, it is filled with many historical attractions (e.g. Old Town Hall, Palace Ciprianis and the old Clock Bell Tower) and numerous bars, restaurants and shops.</p>",
+				"images": [
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609869748/Bolt%20Travel%20Images/BlogImages/Discover%20Split/discover-split-croatia.jpg",
+						"altText": "Discover Split, Croatia – Travel Guide by Bolt Travel"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609869934/Bolt%20Travel%20Images/BlogImages/Discover%20Split/diocletians-palace-split-croatia.jpg",
+						"altText": "Diocletian's Palace, Split, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609870053/Bolt%20Travel%20Images/BlogImages/Discover%20Split/cathedral-of-st-domnius.jpg",
+						"altText": "Cathedral of St. Domnius, Diocletian's Palace, Split, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609870156/Bolt%20Travel%20Images/BlogImages/Discover%20Split/peristyle-split-croatia.jpg",
+						"altText": "Peristyle, Diocletian's Palace, Split, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609870245/Bolt%20Travel%20Images/BlogImages/Discover%20Split/diocletians-cellars.jpg",
+						"altText": "Diocletian's Cellars, Diocletian's Palace, Split, Croatia"
+					}
+				]
+			},
+			"excerpt": "A City with the Twist of Ancient and Modern All in One Place. The perfect place for travellers of different age, tastes and interests to visit.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1603727416/Bolt%20Travel%20Images/BlogImages/Cover%20Images/03-Split-from-Western-Bank_zf0nan.jpg",
+				"altText": "Discover Split, Croatia – Travel Guide by Bolt Travel"
+			}
+		},
+		{
+			"id": 5,
+			"postId": 3610,
+			"name": "Discover Podstrana, Split – Travel Guide by Bolt Travel",
+			"postDate": "2018-06-11 15:23:27",
+			"postType": "post",
+			"categories": ["destination"],
+			"postTags": [
+				"blog",
+				"croatia",
+				"destination",
+				"podstrana",
+				"travel",
+				"travel-guide"
+			],
+			"title": "Discover Podstrana, Split – Travel Guide by Bolt Travel",
+			"excerpt": "Visit Podstrana. Explore the beautiful coastal town near Split. Stay and feel like a royal in the town of the legendary King Arthur.",
+			"content": {
+				"text": "<h2>Feel like a royal in the town of King Arthur and the Elite Suburb of Split</h2><p>Podstrana is a coastal town located just 8 kilometres from the city of Split. It consists of five villages: Gornja Podstrana which is the oldest village located on the slopes of the Perun Hill and four villages Strožanac, Grljevac, St. Martin and Mutogras which are located along the coast.</p><p>Because of its perfect location, beautiful natural surroundings, stunning beaches and an abundance of restaurants, bars, hotels and other amenities, Podstrana is considered an attractive tourist destination, one of the most elite suburbs in Split and it is usually compared with the city of Santa Monica in California, USA.</p><h2>About Podstrana</h2><h3>The Legend of King Arthur</h3><p>Have you ever heard about the legendary King Arthur? I am sure you have. However, did you know that Podstrana is linked with the famous King Arthur? Near the church of St. Martin, there is a sarcophagus and an inscribed gravestone of Lucius Artorius Castus, a Roman soldier which is considered to be the famous King Arthur, according to modern historical theories.</p><p>According to archaeological findings and historical resources, Lucius Artorius Castus lived between the 2nd and 3rd century AD. He was a centurion who served in many legions throughout his extensive military career. Lucius served in Syria and Judea as well as in the provinces of Dacia and Apennine Peninsula in what is today Romania and Italy. Near the end of his career, he was transferred to Britannia where he was in charge of two Roman legions based in modern-day York, England. After his rewarding military career had finished, he decided to retire and live in the area of nowadays Podstrana, where it is believed that he and his family had originated from.</p><h3>Location</h3><p>Podstrana is situated at the foot of Perun, the slope of the mountain Mosor. It is located just 7 kilometres from the city of Split and 15 km from Omiš. It consists of five villages: Gornja Podstrana which is the oldest village located on the slopes of the Perun Hill and four villages Strožanac, Grljevac, St. Martin and Mutogras which are located along the coast.<p><h3>Beaches</h3><p>Along the beautiful coast, Podstrana is rich with plenty of beautiful beaches. All beaches are covered with small pebbles and provide easy access to the sea. On the beaches, you may find many bars and restaurants where you can relax and have a meal while spending some time at the sea. You can also try different water activities such as swimming, snorkelling, scuba diving, rowing, sailing and windsurfing.</p><h3>Restaurants</h3><p>As a tourist destination, Podstrana provides a good choice of restaurants and local tavern which serve excellent local Croatian, Dalmatian and Mediterranean cuisines. The most popular restaurants in Podstrana are considered to be Restaurant Arkada, Restaurant Amigos and Konoba Argola.</p><h3>Shopping in Podstrana</h3><p>Podstrana has a few grocery stores that are open every day where you can find a huge range of groceries. If you want to go to a larger supermarket and shopping centre then we recommend City Centre One and Mall of Split which is only 5 kilometres from Podstrana. Besides the hypermarket in the centre, there is a large selection of fashion, footwear, perfume shops and a pharmacy.</p><h3>Nightlife in Podstrana</h3><p>As a vibrant destination, Podstrana has a bustling nightlife which is especially emphasised during the summer season. During the period, the local community organises different events and festivals where local citizens and tourists can enjoy participating in activities and listening to live music. You may also visit one of the many cafes and beach bars in Podstrana which serve cocktails and play live music. If you are looking for a more wider choice, you can always visit nearby Split.</p><h2>What to Do in Podstrana</h2><p>Due to its excellent location, Podstrana is the perfect space to choose as a starting point for visiting different sights in Croatia. For frequent visits, we recommend that you visit these top sights:</p><p><strong>Split</strong> is located only 8 km from Podstrana. It is one of the best known and most visited tourist destinations in Croatia and the second largest city in the country. It is an eternally young city which lives at a slow pace that is very easy to get accustomed to. This city is rich in historical monuments of which we recommend the following: Diocletian’s palace (the heart of the city), the Iron Gate, the statue of Bishop Gregory of Nin, the cathedral of St. Duje, church of St. Francis, Cathedral of St. Peter, the main court, city basement, St. Anne’s monastery and many others.</p><p><strong>Omiš</strong> is a small Mediterranean town located at the mouth of the river Cetina. Of its historical characteristics, we emphasize the following: the fortresses Mirabella and Fortica, the parish church of St. Michael, Franciscan monastery, churches of St. Peter, Holy Spirit, the Illyrian seminary, old cemetery, medieval town centre, the pole of shame and the old town lodge. Sports fans can take part in river rafting on the Cetina, free climbing, windsurfing, swimming marathon, beach volleyball and other activities.</p><p><strong>Trogir</strong> is located in the centre of Dalmatia. Its port is preferred by seafarers because of its favourable location and natural protection. It is often named the “museum city” because it is full of historical monuments such as the old city centre, Kamerlengo fortress, tower of St. Mark, sculpture of the Blessed John Orsini, chapel of St. Jeronimo, Ćipiko palace, Renaissance church of St. John the Baptist, portal of Radovan, museum and pinacotheca.</p><p>If you are planning to travel further, you can organise a one-day trip to:</p><p><strong>Dubrovnik</strong> – One of the most popular tourist destination in Croatia. Dubrovnik is a city in southern Croatia fronting the Adriatic Sea. It's known for its distinctive Old Town, encircled with massive stone walls completed in the 16th century. Its well-preserved buildings range from baroque St. Blaise Church to Renaissance Sponza Palace and Gothic Rector’s Palace, now a history museum. Paved with limestone, the pedestrianized Stradun (or Placa) is lined with shops and restaurants.</p><p><strong>Medjugorje</strong> - a town in Bosnia and Herzegovina. It is one of the most visited places of Catholic pilgrimage in the world since the Virgin Mary appeared on Apparition Hill in 1981. Some famous sights in Medjugorje include two statues of the Virgin Mary, “Queen of Peace”, which one marks the site of the 1st apparition and the other is placed in front of the St. James Church; the “Risen Christ” statue from which drops of water run and a concrete cross on the top of Cross Mountain, to the south.</p><p><strong>Mostar -</strong> a city in southern Bosnia and Herzegovina, straddling the Neretva River. It’s known for the iconic Stari Most (Old Bridge), a reconstructed medieval arched bridge. The nearby alleys are full of shops and market stalls.</p><p><strong>Šibenik</strong> - is a city on the Adriatic coast of Croatia. It’s known as a gateway to the Kornati Islands. The 15th-century stone Cathedral of St. James is decorated with 71 sculpted faces. Nearby, the Šibenik City Museum, in the 14th-century Prince’s Palace, has exhibits ranging from prehistorical to the present day. The white stone St. Michael’s Fortress has an open-air theatre, with views of Šibenik Bay and neighbouring</p><p><strong>Brač and Hvar islands</strong> – the two most popular visited islands in Dalmatia. Both islands are well-connected to the mainland by ferry. These picturesque islands are filled with small towns and lovely beautiful beaches around the islands.</p><p><strong>National Park Krka</strong> - Nature reserve with walking trails, waterfalls &amp; riverboat trips, plus monastic and castle ruins.</p><p><strong>National Park Plitvice Lakes</strong> - National park known for lakes, alpine forests, waterfalls &amp; caves, plus hiking trails. The national park was included in 1979 in the UNESCO World Heritage List.</p>",
+				"images": [
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420094/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/podstrana-croatia.jpg",
+						"altText": "Podstrana, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420108/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/split-croatia.jpg",
+						"altText": "Split, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420237/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/omis-croatia.jpg",
+						"altText": "Omis, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420263/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/dubrovnik-croatia.jpg",
+						"altText": "Dubrovnik, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420345/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/trogir-croatia.jpg",
+						"altText": "Trogir, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420387/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/Cathedral_of_Saint_James_and_Virgin_Mary_Medjugorje_hbpucp.jpg",
+						"altText": "Međugorje, BIH, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420473/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/sibenik-croatia.jpg",
+						"altText": "Šibenik, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420625/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/zlatni-rat-bol-croatia.jpg",
+						"altText": "Golden Horn Beach, Bol, Croatia"
+					},
+					{
+						"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1613420700/Bolt%20Travel%20Images/BlogImages/Discover%20Podstrana%2C%20Croatia/plitvice-lakes-croatia.jpg",
+						"altText": "Plitvice Lakes, Croatia"
+					}
+				]
+			},
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1603728805/Bolt%20Travel%20Images/BlogImages/Cover%20Images/View_of_Mutogras_and_the_Sea_1-1_yypbmk.jpg",
+				"altText": "Discover Podstrana, Split – Travel Guide by Bolt Travel"
+			}
+		},
+		{
+			"id": 6,
+			"postId": 3829,
+			"name": "The Pirate Battle of Omiš - Event Insight by Bolt Travel",
+			"postDate": "2018-07-30 19:00:54",
+			"postType": "post",
+			"categories": ["events"],
+			"postTags": [
+				"blog",
+				"destination",
+				"events",
+				"omis",
+				"travel",
+				"travel-guide"
+			],
+			"title": "The Pirate Battle of Omiš - Event Insight by Bolt Travel",
+			"excerpt": "Come and watch the Pirate Battle in Omiš. Historical re-enacted between pirates and the Venetians. Meet real-life pirates, pirate ships and weapons.",
+			"content": {},
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1603729053/Bolt%20Travel%20Images/BlogImages/Cover%20Images/Omi%C5%A1-Pirate-Battle-Nights-Boat_pf3502.jpg",
+				"altText": "The Pirate Battle of Omiš - Event Insight by Bolt Travel"
+			}
+		},
+		{
+			"id": 7,
+			"postId": 3843,
+			"name": "Alka Sinj 2019 – Event Guide by Bolt Travel",
+			"postDate": "2019-07-30 15:27:06",
+			"postType": "post",
+			"categories": ["events"],
+			"postTags": [
+				"blog",
+				"croatia",
+				"destination",
+				"events",
+				"sinj",
+				"travel",
+				"travel-guide"
+			],
+			"title": "Alka Sinj 2019 – Event Guide by Bolt Travel",
+			"excerpt": "Visit this year's Alka Sinj being held in Sinj, Croatia. Watch the alkari as they ride on their horses to hit points in the alka for victory. ",
+			"content": {},
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1603733011/Bolt%20Travel%20Images/BlogImages/Cover%20Images/Alka-Sinj_ohgg4u.jpg",
+				"altText": "Alka Sinj 2019 – Event Guide by Bolt Travel"
+			}
+		},
+		{
+			"id": 8,
+			"postId": 3850,
+			"name": "Ladja Marathon on Neretva 2019",
+			"postDate": "2019-08-02 18:26:18",
+			"postType": "post",
+			"categories": ["events"],
+			"postTags": [
+				"blog",
+				"croatia",
+				"destination",
+				"events",
+				"ladja",
+				"neretva",
+				"travel",
+				"travel-guide"
+			],
+			"title": "Ladja Marathon on Neretva 2019",
+			"excerpt": "Visit the Ladja Marathon on Neretva on 10 August 2019 at 5:00 PM. Watch the competitors rowing on their boats along the river towards the finish line.",
+			"content": {},
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1603733443/Bolt%20Travel%20Images/BlogImages/Cover%20Images/La%C4%91a-Marathon-on-Neretva-2019_b6unzq.jpg",
+				"altText": "Ladja Marathon on Neretva 2019"
+			}
+		},
+		{
+			"id": 9,
+			"postId": 3869,
+			"name": "The Nights of Diocletian",
+			"postDate": "2018-08-08 17:10:44",
+			"postType": "post",
+			"categories": ["events"],
+			"postTags": [
+				"blog",
+				"croatia",
+				"destination",
+				"diocletians-palace",
+				"events",
+				"split",
+				"travel",
+				"travel-guide"
+			],
+			"title": "The Nights of Diocletian",
+			"content": {},
+			"excerpt": "Visit the Nights of Diocletian. Experience the nights where Split returns back in the ancient Roman times and when Emperor Diocletian ruled the city.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1603733851/Bolt%20Travel%20Images/BlogImages/Cover%20Images/The-Nights-of-Diocletian-Dinner_u8imck.jpg",
+				"altText": "The Nights of Diocletian"
+			}
+		}
+	],
+	"products": [
+		{
+			"id": 1,
+			"productId": 2327,
+			"name": "Palace Ciprianis",
+			"propertyType": "apartment",
+			"location": "Split, Croatia",
+			"address": "Ulica Marka Marulića 6, 21000 Split, Croatia",
+			"city": "Split",
+			"country": "Croatia",
+			"coords": {
+				"lat": 43.5085988,
+				"lng": 16.4391028,
+				"zoomLevel": 16
+			},
+			"guests": 6,
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"size": 90,
+			"price": 114,
+			"minNights": 2,
+			"description": "Book Palace Ciprianis, this two-bedroom apartment for 6 people inside of the palace Ciprianis itself. Enjoy the feel of history right in the centre of Split as Palace Ciprianis is situated on the corner of the town’s main square with an incredible position in the Diocletian’s palace.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607889718/Bolt%20Travel%20Images/Products/palace-ciprianis/Palace-Ciprianis-featured-image.jpg",
+				"altText": "Palace Ciprianis"
+			},
+			"images": [
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607889718/Bolt%20Travel%20Images/Products/palace-ciprianis/Palace-Ciprianis-featured-image.jpg",
+					"altText": "building"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607889815/Bolt%20Travel%20Images/Products/palace-ciprianis/bedroom-1.jpg",
+					"altText": "bedroom 1"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607890012/Bolt%20Travel%20Images/Products/palace-ciprianis/lounge-area.jpg",
+					"altText": "lounge area"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607890140/Bolt%20Travel%20Images/Products/palace-ciprianis/foyer.jpg",
+					"altText": "foyer"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607890669/Bolt%20Travel%20Images/Products/palace-ciprianis/Dining-Room_zvpwjv.jpg",
+					"altText": "living and dining room"
+				}
+			],
+			"checkInTime": "14:00",
+			"checkOutTime": "10:00",
+			"cancellationPolicy": "non-refundable",
+			"amenities": [
+				"air-conditioning",
+				"bed linen",
+				"cable TV",
+				"cutlery",
+				"dishes and silverware",
+				"dining table",
+				"dining chairs",
+				"fridge",
+				"freezer",
+				"kitchenware",
+				"stovetop",
+				"oven",
+				"kettle",
+				"shower",
+				"sink",
+				"tv",
+				"nightstands",
+				"closets",
+				"heating",
+				"city views"
+			],
+			"featuredProperty": true
+		},
+		{
+			"id": 2,
+			"productId": 2459,
+			"name": "Apartment Sutton 2",
+			"propertyType": "apartment",
+			"location": "Podstrana, Croatia",
+			"address": "Put Vučipolja 29, 21312 Podstrana, Croatia",
+			"city": "Podstrana",
+			"country": "Croatia",
+			"coords": {
+				"lat": 43.4701269,
+				"lng": 16.5769099,
+				"zoomLevel": 16
+			},
+			"guests": 6,
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"size": 50,
+			"price": 91,
+			"minNights": 2,
+			"description": "Book Apartment SUTTON 2 in Podstrana (Split). Stay and enjoy the magnificient gorgeous breathtaking views of the sea, surrounding islands and the city of Split while sitting, relaxing and having barbecues on the large terrace only for you",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607975415/Bolt%20Travel%20Images/Products/apartment-sutton-2/feature-image.jpg",
+				"altText": "Apartment Sutton 2"
+			},
+			"images": [
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607975415/Bolt%20Travel%20Images/Products/apartment-sutton-2/feature-image.jpg",
+					"altText": "Apartment Sutton 2"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607975491/Bolt%20Travel%20Images/Products/apartment-sutton-2/building.jpg",
+					"altText": "building"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607975605/Bolt%20Travel%20Images/Products/apartment-sutton-2/terrace-1.jpg",
+					"altText": "terrace"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607975761/Bolt%20Travel%20Images/Products/apartment-sutton-2/living-room.jpg",
+					"altText": "living room"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1607976460/Bolt%20Travel%20Images/Products/apartment-sutton-2/living-dining-room.jpg",
+					"altText": "living and dining room"
+				}
+			],
+			"checkInTime": "14:00",
+			"checkOutTime": "10:00",
+			"cancellationPolicy": "non-refundable",
+			"amenities": [
+				"air-conditioning",
+				"bed linen",
+				"cable TV",
+				"cutlery",
+				"dishes and silverware",
+				"dining table",
+				"dining chairs",
+				"fridge",
+				"freezer",
+				"kitchenware",
+				"stovetop",
+				"oven",
+				"kettle",
+				"shower",
+				"sink",
+				"tv",
+				"nightstands",
+				"closets",
+				"heating",
+				"terrace",
+				"outdoor dining area",
+				"barbecue",
+				"sea views"
+			],
+			"featuredProperty": true
+		},
+		{
+			"id": 3,
+			"productId": 2702,
+			"name": "Apartment Trapanezi 1 - Private Beach Paradise",
+			"propertyType": "apartment",
+			"location": "Trpanj, Pelješac, Croatia",
+			"address": "Put od Vila 30, 20420 Trpanj, Croatia",
+			"city": "Trpanj",
+			"country": "Croatia",
+			"coords": {
+				"lat": 43.011678,
+				"lng": 17.2526123,
+				"zoomLevel": 16
+			},
+			"guests": 5,
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"size": 50,
+			"price": 115,
+			"minNights": 7,
+			"description": "Book Apartment Trapanezi 1 - Private Beach Paradise. Stay and enjoy your holidays in this beachfront apartment with its own private beach and two large terraces which overlook the sea and it is possible to admire one of the peninsula’s most beautiful panoramas of the Adriatic Sea.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608579767/Bolt%20Travel%20Images/Products/apartment-trapanezi/trapanezi-1/trapanezi-1-featured-photo.jpg",
+				"altText": "Apartment Trapanezi 1 - Private Beach Paradise"
+			},
+			"images": [
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608579767/Bolt%20Travel%20Images/Products/apartment-trapanezi/trapanezi-1/trapanezi-1-featured-photo.jpg",
+					"altText": "Apartment Trapanezi 1 - Private Beach Paradise"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608580108/Bolt%20Travel%20Images/Products/apartment-trapanezi/trapanezi-building.jpg",
+					"altText": "building"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608580300/Bolt%20Travel%20Images/Products/apartment-trapanezi/common/trapanezi-private-beach-1-1.jpg",
+					"altText": "private beach"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608580415/Bolt%20Travel%20Images/Products/apartment-trapanezi/common/trapanezi-private-beacn-1-2.jpg",
+					"altText": "private beach"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608580677/Bolt%20Travel%20Images/Products/apartment-trapanezi/common/trapanezi-private-beach-beachfront-terrace.jpg",
+					"altText": "private beach beachfront terrace"
+				}
+			],
+			"checkInTime": "14:00",
+			"checkOutTime": "10:00",
+			"cancellationPolicy": "non-refundable",
+			"amenities": [
+				"air-conditioning",
+				"heating",
+				"fan",
+				"private entrance",
+				"Internet",
+				"Internet (Wi-Fi)",
+				"work desk",
+				"terrace",
+				"bed linen",
+				"towels",
+				"nightstands",
+				"lamps",
+				"closets",
+				"clothes hangers",
+				"toilet",
+				"shower",
+				"sink",
+				"soap",
+				"kitchen",
+				"stovetop",
+				"microwave oven",
+				"fridge",
+				"freezer",
+				"kettle",
+				"mixer",
+				"kitchenware",
+				"blender",
+				"cutlery",
+				"wine opener",
+				"kitchen table",
+				"dining table",
+				"dining chairs",
+				"tv",
+				"cable TV",
+				"barbecue",
+				"private beach"
+			],
+			"featuredProperty": true
+		},
+		{
+			"id": 4,
+			"productId": 2704,
+			"name": "Apartment Trapanezi 2 - Private Beach Paradise",
+			"propertyType": "apartment",
+			"location": "Trpanj, Pelješac, Croatia",
+			"address": "Put od Vila 30, 20420 Trpanj, Croatia",
+			"city": "Trpanj",
+			"country": "Croatia",
+			"coords": {
+				"lat": 43.011678,
+				"lng": 17.2526123,
+				"zoomLevel": 16
+			},
+			"guests": 3,
+			"bedrooms": 1,
+			"bathrooms": 1,
+			"size": 40,
+			"price": 92,
+			"minNights": 7,
+			"description": "Book Apartment Trapanezi 2 – Private Beach Paradise. Stay and enjoy your holidays in this beachfront apartment with its own private beach and two large terraces which overlook the sea and it is possible to admire one of the peninsula’s most beautiful panoramas of the Adriatic Sea.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608654890/Bolt%20Travel%20Images/Products/apartment-trapanezi/trapanezi-2/trapanezi-2-featured-photo.jpg",
+				"altText": "Apartment Trapanezi 2 - Private Beach Paradise"
+			},
+			"images": [
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608654890/Bolt%20Travel%20Images/Products/apartment-trapanezi/trapanezi-2/trapanezi-2-featured-photo.jpg",
+					"altText": "Apartment Trapanezi 2 - Private Beach Paradise"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608580108/Bolt%20Travel%20Images/Products/apartment-trapanezi/common/trapanezi-building.jpg",
+					"altText": "building"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608580300/Bolt%20Travel%20Images/Products/apartment-trapanezi/common/trapanezi-private-beach-1-1.jpg",
+					"altText": "private beach"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608580415/Bolt%20Travel%20Images/Products/apartment-trapanezi/common/trapanezi-private-beacn-1-2.jpg",
+					"altText": "private beach"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608580677/Bolt%20Travel%20Images/Products/apartment-trapanezi/common/trapanezi-private-beach-beachfront-terrace.jpg",
+					"altText": "private beach beachfront terrace"
+				}
+			],
+			"checkInTime": "14:00",
+			"checkOutTime": "10:00",
+			"cancellationPolicy": "non-refundable",
+			"amenities": [
+				"air-conditioning",
+				"heating",
+				"fan",
+				"private entrance",
+				"Internet",
+				"Internet (Wi-Fi)",
+				"work desk",
+				"terrace",
+				"bed linen",
+				"towels",
+				"nightstands",
+				"lamps",
+				"closets",
+				"clothes hangers",
+				"toilet",
+				"shower",
+				"sink",
+				"soap",
+				"kitchen",
+				"stovetop",
+				"microwave oven",
+				"fridge",
+				"freezer",
+				"kettle",
+				"mixer",
+				"kitchenware",
+				"blender",
+				"cutlery",
+				"wine opener",
+				"kitchen table",
+				"dining table",
+				"dining chairs",
+				"tv",
+				"cable TV",
+				"barbecue",
+				"private beach"
+			],
+			"featuredProperty": false
+		},
+		{
+			"id": 5,
+			"productId": 4593,
+			"name": "Apartment Kordic A2 – Poolside Retreat",
+			"propertyType": "apartment",
+			"location": "Slatine, Čiovo, Croatia",
+			"address": "Put Dionica 4, 21224 Slatine, Croatia",
+			"city": "Slatine",
+			"country": "Croatia",
+			"coords": {
+				"lat": 43.5099509,
+				"lng": 16.309179,
+				"zoomLevel": 16
+			},
+			"guests": 5,
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"size": 55,
+			"price": 114,
+			"minNights": 2,
+			"description": "Book Apartment Kordic A2 - Poolside Retreat in Slatine with Bolt Travel. Located near the beach, experience the best of both worlds by spending your summer holidays relaxing or swimming in the pool, having barbecues in the beautiful garden and enjoying a wonderful time at the beach.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608720366/Bolt%20Travel%20Images/Products/apartment-kordi%C4%87/A2/01_Apartment_Kordi%C4%87_A2_Front_Photo_a2kyva.jpg",
+				"altText": "Apartment Kordić A2 - Poolside Retreat"
+			},
+			"images": [
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608720366/Bolt%20Travel%20Images/Products/apartment-kordi%C4%87/A2/01_Apartment_Kordi%C4%87_A2_Front_Photo_a2kyva.jpg",
+					"altText": "Apartment Kordić A2 - Poolside Retreat"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608720366/Bolt%20Travel%20Images/Products/apartment-kordi%C4%87/A2/02_Building_and_Secure_Parking_njlwlt.jpg",
+					"altText": "building and secure parking"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608720433/Bolt%20Travel%20Images/Products/apartment-kordi%C4%87/A2/07_Swimming_Pool_and_Outdoor_Dining_Area_h9aeoy.jpg",
+					"altText": "swimming pool and outdoor dining area"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608720426/Bolt%20Travel%20Images/Products/apartment-kordi%C4%87/A2/10_Enjoy_Your_Summer_Holidays_Relaxing_by_the_Pool_n8gowk.jpg",
+					"altText": "Enjoy your summer holidays relaxing by the pool"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608720426/Bolt%20Travel%20Images/Products/apartment-kordi%C4%87/A2/13_Outdoor_Dining_Area_in_the_Backyard_rs52am.jpg",
+					"altText": "outdoor dining area in the backyard"
+				}
+			],
+			"checkInTime": "14:00",
+			"checkOutTime": "10:00",
+			"cancellationPolicy": "non-refundable",
+			"amenities": [
+				"air-conditioning",
+				"heating",
+				"private entrance",
+				"Internet (Wi-Fi)",
+				"parking",
+				"terrace",
+				"backyard",
+				"swimming pool",
+				"barbecue",
+				"bed linen",
+				"towels",
+				"toilet",
+				"nightstands",
+				"lamps",
+				"closests",
+				"clothes hangers",
+				"sink",
+				"shower",
+				"kitchen",
+				"stovetop",
+				"fridge",
+				"freezer",
+				"kettle",
+				"kitchenware",
+				"cutlery",
+				"dining chairs",
+				"dining table",
+				"tv",
+				"cable TV",
+				"outdoor dining area",
+				"outdoor furniture",
+				"deck chairs"
+			],
+			"featuredProperty": true
+		},
+		{
+			"id": 6,
+			"productId": 4848,
+			"name": "Apartment Vulić - Family Poolside Retreat",
+			"propertyType": "apartment",
+			"location": "Slatine, Čiovo, Croatia",
+			"address": "Put Dionica 10, 21224 Slatine, Croatia",
+			"city": "Slatine",
+			"country": "Croatia",
+			"coords": {
+				"lat": 43.5105849,
+				"lng": 16.3093254,
+				"zoomLevel": 16
+			},
+			"guests": 4,
+			"bedrooms": 2,
+			"bathrooms": 2,
+			"size": 50,
+			"price": 195,
+			"minNights": 3,
+			"description": "Book Apartment Vulic in Slatine, Croatia with Bolt Travel. Enjoy your summer holidays with your family and friends by the majestic crystal blue pool and close to the beach.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608727692/Bolt%20Travel%20Images/Products/apartment-vulic/apartment-vulic-front-photo.jpg",
+				"altText": "Apartment Vulic - Family Poolside Retreat"
+			},
+			"images": [
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608727692/Bolt%20Travel%20Images/Products/apartment-vulic/apartment-vulic-front-photo.jpg",
+					"altText": "Apartment Vulic - Family Poolside Retreat"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608727692/Bolt%20Travel%20Images/Products/apartment-vulic/outdoor-space-pool-lounge-chairs.jpg",
+					"altText": "Outdoor Pool with Lounge Chairs"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608727738/Bolt%20Travel%20Images/Products/apartment-vulic/breakfast-on-the-terrace-with-a-view.jpg",
+					"altText": "Breakfast on the Terrace with a View"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608727737/Bolt%20Travel%20Images/Products/apartment-vulic/garden-and-pool.jpg",
+					"altText": "Garden and pool"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1608727692/Bolt%20Travel%20Images/Products/apartment-vulic/building.jpg",
+					"altText": "Building"
+				}
+			],
+			"checkInTime": "14:00",
+			"checkOutTime": "10:00",
+			"amenities": [
+				"air-conditioning",
+				"heating",
+				"private entrance",
+				"Internet (Wi-Fi)",
+				"parking",
+				"terrace",
+				"backyard",
+				"swimming pool",
+				"barbecue",
+				"bed linen",
+				"towels",
+				"toilet",
+				"nightstands",
+				"lamps",
+				"closests",
+				"clothes hangers",
+				"sink",
+				"shower",
+				"kitchen",
+				"stovetop",
+				"fridge",
+				"freezer",
+				"kettle",
+				"kitchenware",
+				"cutlery",
+				"dining chairs",
+				"dining table",
+				"tv",
+				"cable TV",
+				"outdoor dining area",
+				"outdoor furniture",
+				"deck chairs"
+			],
+			"featuredProperty": true
+		},
+		{
+			"id": 7,
+			"productId": 5470,
+			"name": "Apartment Nikolea – Beach Island Getaway",
+			"propertyType": "apartment",
+			"location": "Nečujam, Šolta, Croatia",
+			"address": "Ul. Vesna Parun 13, 21432 Nečujam, Croatia",
+			"city": "Nečujam",
+			"country": "Croatia",
+			"coords": {
+				"lat": 43.3823265,
+				"lng": 16.322109,
+				"zoomLevel": 16
+			},
+			"guests": 6,
+			"bedrooms": 2,
+			"bathrooms": 1,
+			"size": 75,
+			"price": 118,
+			"minNights": 7,
+			"description": "Book Apartment Nikolea – Beach Island Getaway on the island of Šolta with Bolt Travel. Stay in this lovely two-bedroom beach island getaway with a terrace and beautiful views and have a taste of island paradise close to the beach and sea.",
+			"featureImage": {
+				"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609788187/Bolt%20Travel%20Images/Products/apartment-nikolea/apartment-nikolea-front-photo.jpg",
+				"altText": "Apartment Nikolea – Beach Island Getaway"
+			},
+			"images": [
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609788187/Bolt%20Travel%20Images/Products/apartment-nikolea/apartment-nikolea-front-photo.jpg",
+					"altText": "Apartment Nikolea – Beach Island Getaway"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609788175/Bolt%20Travel%20Images/Products/apartment-nikolea/view-from-the-terrace.jpg",
+					"altText": "View from the Terrace"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609788175/Bolt%20Travel%20Images/Products/apartment-nikolea/lounge-area-on-the-terrace.jpg",
+					"altText": "Lounge Area on the Terrace"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609788185/Bolt%20Travel%20Images/Products/apartment-nikolea/panorama-view-necujam-solta.jpg",
+					"altText": "Panoramic View of Nečujam, Šolta"
+				},
+				{
+					"srcUrl": "https://res.cloudinary.com/jsuton00/image/upload/v1609788188/Bolt%20Travel%20Images/Products/apartment-nikolea/nearby-beach-in-solta.jpg",
+					"altText": "Nearby Beach in Šolta"
+				}
+			],
+			"checkInTime": "13:00",
+			"checkOutTime": "11:00",
+			"cancellationPolicy": "non-refundable",
+			"amenities": [
+				"air-conditioning",
+				"balcony",
+				"bed linen",
+				"cable TV",
+				"closets",
+				"clothes hangers",
+				"cutlery",
+				"deck chairs",
+				"dining chairs",
+				"dining table",
+				"dishes and silverware",
+				"freezer",
+				"fridge",
+				"heating",
+				"Internet (Wi-Fi)",
+				"Internet",
+				"kettle",
+				"kitchen table",
+				"kitchen",
+				"kitchenware",
+				"lamps",
+				"mixer",
+				"nightstands",
+				"outdoor dining area",
+				"outdoor furniture",
+				"oven",
+				"parking",
+				"private entrance",
+				"sea views",
+				"shower",
+				"sink",
+				"stovetop",
+				"toilet",
+				"towels",
+				"tv",
+				"wine opener"
+			],
+			"featuredProperty": true
+		}
+	]
+}

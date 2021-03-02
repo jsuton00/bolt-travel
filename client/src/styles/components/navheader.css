@@ -1,0 +1,105 @@
+.nav-header {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 0.25rem 0.5rem;
+}
+
+.nav-header-brand {
+  flex-basis: 32%;
+  width: 100%;
+  max-width: 100%;
+  padding: 0.25rem 1rem;
+}
+
+.nav-header-brand-link {
+  justify-content: center;
+  align-items: baseline;
+  width: 100%;
+  padding: 0 0.5rem;
+}
+
+.nav-header-brand-name {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #0e6ebf;
+  text-transform: uppercase;
+  width: 100%;
+  padding: 0 0.5rem;
+}
+
+.brand-logo {
+  flex-basis: 18%;
+  width: 100%;
+  height: 100%;
+  padding: 0 0.25rem;
+}
+
+.brand-logo-img {
+  width: 20%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.navbar-navlinks-items {
+  flex-basis: 40%;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 0.25rem 1rem;
+}
+
+.nav-header-navLinks-item {
+  flex-basis: 24%;
+  width: 100%;
+  padding: 0 0.5rem;
+}
+
+.nav-header-navLinks-link {
+  width: 100%;
+  height: 100%;
+  font-weight: 500;
+  color: #6a7383;
+  padding: 0 0.5rem;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.nav-login-items {
+  flex-basis: 28%;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 0 1rem 0.25rem;
+}
+
+.nav-login-item {
+  flex-basis: 50%;
+  width: 100%;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.login-link,
+.sign-up-link {
+  border-radius: 1.5rem;
+  width: 100%;
+  font-weight: 600;
+  padding: 0.5rem 1.5rem;
+}
+
+.login-link {
+  border: 0.0625rem solid #313643;
+  background-color: transparent;
+  color: #313643;
+}
+
+.sign-up-link {
+  border: 0.0625rem solid #0e6ebf;
+  background-color: transparent;
+  color: #0e6ebf;
+}
