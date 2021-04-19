@@ -1,10 +1,10 @@
-import { Link } from '@material-ui/core';
 import React from 'react';
-import '../../styles/components/navigation/navheader.css';
-import { brandLogo } from '../../utils/fetchImages';
+import { Link } from 'react-router-dom';
+import Navbar from './Navbar';
 import ToggleMenu from '../common/Buttons/ToggleMenu';
 import { BrandLogo } from '../common/Images';
-import Navbar from './Navbar';
+import { brandLogo } from '../../utils/fetchImages';
+import '../../styles/components/navigation/navheader.css';
 
 const NavHeader = (props) => {
   const { width } = props;
@@ -17,7 +17,7 @@ const NavHeader = (props) => {
               <BrandLogo imgSrc={brandLogo.src} altText={brandLogo.altText} />
             </span>
             Bolt Travel
-          </h1>
+          </h1>{' '}
         </Link>
       </div>
       {width < 988 ? (

@@ -3,7 +3,6 @@ import { Route, Switch } from 'react-router-dom';
 import Footer from './components/layouts/Footer';
 import Header from './components/layouts/Header';
 import ViewportProvider from './containers/Viewport';
-import { useViewportContext } from './hooks/useViewport';
 import AboutPage from './pages/AboutPage';
 import BlogArticle from './pages/BlogArticle';
 import BlogPage from './pages/BlogPage';

@@ -9,7 +9,9 @@ export const useProducts = () => {
 
   let history = useHistory();
 
-  const visitPage = (productId) => {
+  const selectProduct = (productId) => {
+    dispatch(actions.selectProduct(productId));
+
     if (productId) {
       return history.push({
         pathname: `/products/:${productId}`,
@@ -17,9 +19,6 @@ export const useProducts = () => {
       });
     }
   };
-
-  const selectProduct = (productId) =>
-    dispatch(actions.selectProduct(productId));
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -31,5 +30,5 @@ export const useProducts = () => {
     };
   }, [dispatch]);
 
-  return [products, visitPage, selectProduct];
+  return [products, selectProduct];
 };

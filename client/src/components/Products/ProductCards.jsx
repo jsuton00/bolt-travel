@@ -12,7 +12,6 @@ const ProductCards = (props) => {
     productType,
     featureImage,
     clickProduct,
-    visitProduct,
     price,
   } = props;
 
@@ -20,12 +19,10 @@ const ProductCards = (props) => {
   const titleLinkRef = useRef();
 
   const handleClick = (e) => {
-    e.preventDefault();
     if (
       e.target.value === cardRef.current.value ||
       e.target.value === titleLinkRef.current.value
     ) {
-      visitProduct(e.target.value);
       clickProduct(e.target.value);
     }
   };

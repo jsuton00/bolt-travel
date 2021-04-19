@@ -35,14 +35,22 @@ const Header = () => {
       ) : (
         <HeroImageSection />
       )}
-      <LoginPage
-        showLoginForm={showLoginForm}
-        closeLoginForm={closeLoginForm}
-      />
-      <SignUpPage
-        showSignInForm={showSignInForm}
-        closeSignInForm={closeSignInForm}
-      />
+      {showLoginForm ? (
+        <LoginPage
+          showLoginForm={showLoginForm}
+          closeLoginForm={closeLoginForm}
+        />
+      ) : (
+        <></>
+      )}
+      {showSignInForm ? (
+        <SignUpPage
+          showSignInForm={showSignInForm}
+          closeSignInForm={closeSignInForm}
+        />
+      ) : (
+        <></>
+      )}
     </header>
   );
 };

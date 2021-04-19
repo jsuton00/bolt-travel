@@ -4,7 +4,7 @@ import ProductCards from '../Products/ProductCards';
 import '../../styles/layouts/pageLayouts.css';
 
 const FeaturedListings = () => {
-  const [products, visitPage, selectProduct] = useProducts();
+  const [products, selectProduct] = useProducts();
 
   return (
     <div
@@ -35,7 +35,6 @@ const FeaturedListings = () => {
                     productType={p.propertyType}
                     price={p.price}
                     clickProduct={() => selectProduct(p.id)}
-                    visitProduct={() => visitPage(p.id)}
                   />
                 );
               })}

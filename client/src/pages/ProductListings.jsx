@@ -4,7 +4,7 @@ import ProductCards from '../components/Products/ProductCards';
 import '../styles/pages/productListings.css';
 
 const ProductListings = () => {
-  const [products, visitPage, selectProduct] = useProducts();
+  const [products, selectProduct] = useProducts();
 
   return (
     <div id="product-listings" className="product-listings container-fluid">
@@ -23,7 +23,6 @@ const ProductListings = () => {
                   productType={product.propertyType}
                   price={product.price}
                   clickProduct={() => selectProduct(product.id)}
-                  visitProduct={() => visitPage(product.id)}
                 />
               );
             })}
