@@ -30,15 +30,18 @@ export const HeroImages = (props) => {
             className="hero-image"
           />
         );
-
+      case '/products':
+        return <></>;
       default:
-        return (
-          <img
-            src={images.homePage.imgSrc}
-            alt={images.homePage.altText}
-            className="hero-image"
-          />
-        );
+        if (location.pathname === '/') {
+          return (
+            <img
+              src={images.homePage.imgSrc}
+              alt={images.homePage.altText}
+              className="hero-image"
+            />
+          );
+        }
     }
   };
   return <>{images && showImages()}</>;

@@ -2,54 +2,74 @@
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  height: 100%;
+  min-height: 5rem;
+  height: 5rem;
+  max-height: 5rem;
   padding: 0.25rem 0.5rem;
 }
 
-.nav-header-brand {
-  flex-basis: 32%;
+.nav-header-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   width: 100%;
-  max-width: 100%;
-  padding: 0.25rem 1rem;
+  height: 100%;
+  padding: 0.25rem 0;
+}
+
+.nav-header-brand {
+  flex-basis: 22%;
+  width: 100%;
+  height: 100%;
+  padding: 0.5rem;
 }
 
 .nav-header-brand-link {
+  display: flex;
+  flex-direction: row;
   justify-content: center;
-  align-items: baseline;
+  align-items: center;
   width: 100%;
-  padding: 0 0.5rem;
+  height: 100%;
+  padding: 0.75rem 1rem;
 }
 
 .nav-header-brand-name {
-  font-size: 1.75rem;
+  font-size: 1.6rem;
   font-weight: 700;
   color: #0e6ebf;
-  text-transform: uppercase;
   width: 100%;
-  padding: 0 0.5rem;
+  text-align: center;
 }
 
 .brand-logo {
   flex-basis: 18%;
+  flex-grow: 1;
   width: 100%;
   height: 100%;
-  padding: 0 0.25rem;
+  padding: 0.25rem;
+  margin-right: 0.125rem;
 }
 
 .brand-logo-img {
   width: 20%;
-  height: 100%;
-  -o-object-fit: cover;
-  object-fit: cover;
+  padding: 0.125rem 0.125rem 0.25rem;
+  -o-object-fit: contain;
+  object-fit: contain;
 }
 
-.navbar-navlinks-items {
-  flex-basis: 40%;
+.nav-header-navlinks-items {
+  flex-basis: 45%;
+  display: flex;
+  flex-direction: row;
   justify-content: space-around;
   align-items: center;
   width: 100%;
+  max-width: 100%;
   height: 100%;
   padding: 0.25rem 1rem;
+  margin: 0 auto;
 }
 
 .nav-header-navLinks-item {
@@ -68,16 +88,20 @@
   text-transform: capitalize;
 }
 
-.nav-login-items {
+.nav-header-login-section {
   flex-basis: 28%;
+  display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   width: 100%;
+  max-width: 100%;
   height: 100%;
   padding: 0 1rem 0.25rem;
 }
 
-.nav-login-item {
+.login-section,
+.sign-up-section {
   flex-basis: 50%;
   width: 100%;
   text-align: center;
@@ -102,4 +126,16 @@
   border: 0.0625rem solid #0e6ebf;
   background-color: transparent;
   color: #0e6ebf;
+}
+
+.toggle-menu-section {
+  flex-basis: 28%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  padding: 0 1rem 0.25rem;
 }

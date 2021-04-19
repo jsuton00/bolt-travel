@@ -4,6 +4,12 @@
   height: 25rem;
   margin: 0.25rem 0;
   border-radius: 0.75rem;
+  box-shadow: 0 0.0625rem 0.125rem 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.product-card:hover {
+  box-shadow: none;
 }
 
 .product-card:last-of-type {
@@ -32,6 +38,11 @@
   color: #0c94e9;
   padding: 0.125rem 0;
   width: 100%;
+  cursor: pointer;
+}
+
+.product-name:hover {
+  text-decoration: underline;
 }
 
 .product-location,

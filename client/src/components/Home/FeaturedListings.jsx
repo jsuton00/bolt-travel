@@ -18,10 +18,7 @@ const FeaturedListings = () => {
             Examine Our Top Selected Holiday Homes in Croatia
           </p>
         </div>
-        <div
-          id="featured-listings-cards"
-          className="featured-listings-cards row"
-        >
+        <div id="featured-listings-cards" className="featured-listings-cards">
           {products.length > 0 &&
             products
               .filter((p) => p.featuredProperty === true)

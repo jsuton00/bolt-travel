@@ -1,7 +1,8 @@
 import { applyMiddleware, compose, createStore } from 'redux';
 import createSagaMiddleware from 'redux-saga';
-import reducer from './reducers/reducer';
-import { watchSagas } from './sagas';
+import watchPosts from './posts/sagas';
+import watchProducts from './products/sagas';
+import rootReducer from './storeConfig/reducer';
 
 const composeEnhancers =
   process.env.NODE_ENV === 'development'
@@ -11,8 +12,9 @@ const composeEnhancers =
 const sagaMiddleware = createSagaMiddleware();
 
 export const store = createStore(
-  reducer,
+  rootReducer,
   composeEnhancers(applyMiddleware(sagaMiddleware)),
 );
 
-sagaMiddleware.run(watchSagas);
+sagaMiddleware.run(watchPosts);
+sagaMiddleware.run(watchProducts);

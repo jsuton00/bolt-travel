@@ -1,10 +1,10 @@
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import * as actions from '../../store/actions/index';
+import * as actions from '../../store/storeConfig/actions';
 
 export const useBlogs = () => {
   const dispatch = useDispatch();
-  const blogPosts = useSelector((state) => state.filteredPosts);
+  const blogPosts = useSelector((state) => state.posts.filteredPosts);
 
   useEffect(() => {
     const timer = setTimeout(() => {

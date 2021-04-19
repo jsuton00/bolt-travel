@@ -1,34 +1,14 @@
 .home-page {
   width: 100%;
-  height: calc(100% - 12.8vh);
-}
-
-.service-section,
-.why-us-section {
-  width: 100%;
+  padding: 0 !important;
 }
 
 .service-section {
   background-color: #fff;
 }
 
-.service-section-content,
-.why-us-section-content {
-  width: 100%;
-  height: 100%;
-  padding: 0.5rem 2rem;
-}
-
 .service-section-title {
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100%;
-  font-size: 1.5rem;
-  font-weight: 600;
   color: #0e6ebf;
-  text-align: center;
-  padding: 1rem;
 }
 
 .why-us-section {
@@ -47,9 +27,12 @@
 
 .why-us-title,
 .why-us-tagline {
+  display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   width: 100%;
+  max-width: 100%;
   padding: 0.25rem 0.5rem;
   font-weight: 600;
   text-align: center;
@@ -65,16 +48,24 @@
 }
 
 .quality-section {
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
+  max-width: 100%;
   height: 100%;
+  padding: 0 2rem;
+  margin: 0 auto;
 }
 
 .quality-heading {
+  display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   width: 100%;
+  max-width: 100%;
   padding: 0.5rem 0.75rem;
   font-size: 1.25rem;
   font-weight: 600;

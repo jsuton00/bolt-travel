@@ -1,9 +1,8 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import { useHistory } from 'react-router-dom';
-import * as actions from '../store/actions/index';
+import * as actions from '../store/storeConfig/actions';
 import BlogCards from '../components/Blog/BlogCards';
-import { HeroImageSection } from '../components/layouts/PageSections';
 import { useBlogs } from '../components/Blog/Blog';
 import '../styles/pages/blogPage.css';
 
@@ -23,7 +22,6 @@ const BlogPage = () => {
 
   return (
     <>
-      <HeroImageSection />
       <div id="blog-section" className="blog-section container-fluid">
         <div className="blog-display container">
           <h3 className="blog-title row">Blog</h3>

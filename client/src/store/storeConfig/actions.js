@@ -2,6 +2,8 @@ export {
   fetchPosts,
   fetchPostsFail,
   fetchPostsSuccess,
+  fetchPostImages,
+  fetchRelatedPosts,
   filterByTags,
   filterbyCategories,
   setSearchTerm,
@@ -9,22 +11,21 @@ export {
   searchPostsFail,
   searchPostsSuccess,
   selectPost,
-  fetchPostImages,
-  fetchRelatedPosts,
   loadingPosts,
-} from './posts';
+} from '../posts/actions/posts';
 
 export {
   fetchProducts,
   fetchProductsFail,
   fetchProductsSuccess,
+  filterFeaturedProducts,
   filterByBedrooms,
   filterByGuests,
   filterByProductTypes,
+  fetchProductImages,
   searchProducts,
   searchProductsFail,
   searchProductsSuccess,
   selectProduct,
-  fetchProductImages,
   loadingProducts,
-} from './products';
+} from '../products/actions/products';

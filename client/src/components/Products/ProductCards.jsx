@@ -25,8 +25,8 @@ const ProductCards = (props) => {
       e.target.value === cardRef.current.value ||
       e.target.value === titleLinkRef.current.value
     ) {
-      clickProduct(e.target.value);
       visitProduct(e.target.value);
+      clickProduct(e.target.value);
     }
   };
 

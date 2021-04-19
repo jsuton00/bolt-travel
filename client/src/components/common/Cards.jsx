@@ -19,7 +19,7 @@ export const OurServices = () => {
   }, []);
 
   return (
-    <div id="service-card-deck" className="service-card-row row">
+    <div id="service-card-deck" className="service-card-row">
       {services.length > 0 &&
         services.map((service, index) => {
           return (
@@ -81,7 +81,7 @@ export const NameCards = () => {
   }, []);
 
   return (
-    <div id="business-name-cards" className="business-name-cards card-deck">
+    <div id="business-name-cards" className="business-name-cards row">
       {names.length > 0 &&
         names.map((n, i) => {
           return (

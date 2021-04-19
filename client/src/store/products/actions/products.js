@@ -17,6 +17,10 @@ export const fetchProductsSuccess = (products) => ({
   products,
 });
 
+export const filterFeaturedProducts = (featuredProducts) => ({
+  type: actionTypes.FILTER_FEATURED_PRODUCTS,
+  featuredProducts,
+});
 export const filterByBedrooms = (bedrooms) => ({
   type: actionTypes.FILTER_BY_BEDROOMS,
   bedrooms,

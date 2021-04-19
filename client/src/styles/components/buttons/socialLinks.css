@@ -1,25 +1,33 @@
-.footer-social-media .social-media-buttons {
-  flex-wrap: wrap;
+.social-media-buttons {
   justify-content: space-around;
   align-items: center;
   width: 100%;
-  padding: 0.25rem 0.5rem;
+  height: 100%;
+  padding: 1rem 0;
 }
 
 .social-media-button {
-  flex-basis: 21%;
-  position: relative;
   width: 5rem;
   height: 5rem;
   border: 0.0625rem solid #313643;
   background-color: #313643;
   border-radius: 50%;
+  margin: 0.125rem auto;
 }
 
 .social-media-button-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
   width: 100%;
   height: 100%;
-  padding: 1.5rem;
-  font-size: 0.88rem;
   text-align: center;
+  padding: 0.5rem;
+}
+
+.social-media-button-icon span {
+  width: 100%;
+  text-align: center;
+  padding: 0.125rem;
 }

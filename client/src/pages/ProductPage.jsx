@@ -7,7 +7,7 @@ import { ProductLocation } from '../containers/BaseMaps';
 import '../styles/pages/productPage.css';
 
 const ProductPage = () => {
-  const product = useSelector((state) => state.selectedProduct);
+  const product = useSelector((state) => state.products.selectedProduct);
 
   console.log('Product:', product);
   return (

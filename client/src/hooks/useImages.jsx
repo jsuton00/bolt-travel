@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import * as actions from '../store/actions/index';
+import * as actions from '../store/storeConfig/actions';
 
 export const useImages = (imgs) => {
   const [images, setImages] = useState('');
@@ -25,8 +25,8 @@ export const useImages = (imgs) => {
 
 export const useProductImages = () => {
   const dispatch = useDispatch();
-  const productId = useSelector((state) => state.productId);
-  const productImages = useSelector((state) => state.productImages);
+  const productId = useSelector((state) => state.products.productId);
+  const productImages = useSelector((state) => state.products.productImages);
 
   useEffect(() => {
     const timer = setTimeout(() => {

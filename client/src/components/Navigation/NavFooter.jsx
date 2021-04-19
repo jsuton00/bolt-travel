@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { useNavLinks } from '../../hooks/useNavLinks';
+import { useNavLinks } from '../../hooks/useNavigations';
 import { navFooterLinks } from '../../constants/navLinks';
 import { fetchCopyrighhtDate } from '../../utils/formatText';
-import '../../styles/components/navFooter.css';
+import '../../styles/components/navigation/navFooter.css';
 
 const NavFooter = () => {
   const [navLinks] = useNavLinks(navFooterLinks);

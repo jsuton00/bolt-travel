@@ -1,7 +1,6 @@
 import React from 'react';
 import ContactInfo from '../components/common/ContactInfo';
 import { ContactForm } from '../components/common/Forms';
-import { HeroMapSection } from '../components/layouts/PageSections';
 import { useContact } from '../hooks/useContact';
 import '../styles/pages/contactPage.css';
 
@@ -10,7 +9,6 @@ const ContactPage = () => {
 
   return (
     <>
-      <HeroMapSection />
       <div className="contact-section container-fluid">
         <div className="contact-content container">
           <h3 className="contact-title row">Contact</h3>

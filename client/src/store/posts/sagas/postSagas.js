@@ -1,5 +1,5 @@
-import * as api from '../../apis/posts';
-import * as actions from '../actions/index';
+import * as api from '../../../apis/posts';
+import * as actions from '../actions/posts';
 import { put, call } from 'redux-saga/effects';
 
 export function* fetchPostsSaga(action) {

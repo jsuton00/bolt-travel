@@ -8,8 +8,8 @@ const ProductListings = () => {
 
   return (
     <div id="product-listings" className="product-listings container-fluid">
-      <div className="product-listings-content container-fluid">
-        <div className="products-cards row">
+      <div className="product-listings-content container row">
+        <div className="products-cards">
           {products.length > 0 &&
             products.map((product, index) => {
               return (
