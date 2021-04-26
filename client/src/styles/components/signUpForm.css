@@ -3,7 +3,8 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  max-width: 22.5rem;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 .signUp-form {
@@ -11,11 +12,22 @@
   border: none;
   border-radius: 0.75rem;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.2);
-  width: 100%;
+  min-width: 22.5rem;
+  width: 22.5rem;
+  max-width: 22.5rem;
+  transform: translateY(-1%);
 }
 
 .signUp-form .form-header {
   border: 0.0625rem solid #313643;
+}
+
+.signUp-form .close-form-btn-row {
+  position: absolute;
+  top: 0;
+  left: 88%;
+  padding: 0.25rem 0.75rem;
+  margin: 0 auto;
 }
 
 .form-text {

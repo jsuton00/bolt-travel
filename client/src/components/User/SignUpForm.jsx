@@ -1,14 +1,28 @@
 import React from 'react';
 import '../../styles/components/signUpForm.css';
+import { CloseFormButton } from '../common/Buttons/CloseButton';
 
-const SignUpForm = () => {
+const SignUpForm = (props) => {
+  const { closeForm } = props;
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+  };
   return (
     <div
       id="signUp-form-container"
       className="signUp-form-container container-fluid"
     >
-      <form id="signUpForm" name="signUpForm" className="signUp-form card">
+      <form
+        id="signUpForm"
+        name="signUpForm"
+        onSubmit={handleSubmit}
+        className="signUp-form card"
+      >
         <div className="form-header card-header">
+          <div className="close-form-btn-row">
+            <CloseFormButton closeForm={() => closeForm()} />
+          </div>
           <h5 className="form-title card-title">Register</h5>
           <p className="form-text card-text">
             Be Part of Bolt Travel's Community!

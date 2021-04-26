@@ -1,5 +1,5 @@
 import * as actionTypes from '../actions/actionTypes';
-import { updateObject } from '../../../utils/reduxUtils';
+import { updateObject } from '../../helpers/reduxUtils';
 
 const products = {
   products: [],

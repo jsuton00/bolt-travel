@@ -1,33 +1,23 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import Navbar from './Navbar';
-import ToggleMenu from '../common/Buttons/ToggleMenu';
-import { BrandLogo } from '../common/Images';
-import { brandLogo } from '../../utils/fetchImages';
+import BrandLogo from './BrandLogo';
 import '../../styles/components/navigation/navheader.css';
+import {
+  showNavbarOrNavMenu,
+  showToggleOrNavbar,
+} from '../../utils/renderFunctions';
+import { useToggleNavMenu } from '../../hooks/useToggle';
 
 const NavHeader = (props) => {
   const { width } = props;
+  const [isOpen, openNavMenu, closeNavMenu] = useToggleNavMenu();
   return (
-    <nav id="nav-header" className="nav nav-header row">
-      <div className="nav-header-section nav-header-brand">
-        <Link to="/" className="nav-header-brand-link">
-          <h1 className="nav-header-brand-name">
-            <span className="brand-logo">
-              <BrandLogo imgSrc={brandLogo.src} altText={brandLogo.altText} />
-            </span>
-            Bolt Travel
-          </h1>{' '}
-        </Link>
+    <div id="nav-header" className="nav navbar header-nav row">
+      <div className="header-nav-section header-nav-brand row">
+        <BrandLogo />
       </div>
-      {width < 988 ? (
-        <div className="nav-header-section toggle-menu-section">
-          <ToggleMenu />
-        </div>
-      ) : (
-        <Navbar {...props} />
-      )}
-    </nav>
+      {showToggleOrNavbar(width, isOpen, openNavMenu, closeNavMenu, props)}
+      {showNavbarOrNavMenu(width, isOpen, closeNavMenu, props)}
+    </div>
   );
 };
 

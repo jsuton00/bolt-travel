@@ -1,12 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router';
 
-export const BrandLogo = (props) => {
-  const { imgSrc, altText } = props;
-
-  return <img src={imgSrc} alt={altText} className="brand-logo-img" />;
-};
-
 export const HeroImages = (props) => {
   const { images } = props;
 

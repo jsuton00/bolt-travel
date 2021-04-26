@@ -1,4 +1,4 @@
-import { updateObject } from '../../../utils/reduxUtils';
+import { updateObject } from '../../helpers/reduxUtils';
 import * as actionTypes from '../actions/actionTypes';
 
 const posts = {

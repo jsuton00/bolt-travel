@@ -14,13 +14,13 @@ export const useToggleForm = () => {
     setShowSignInForm(!showSignInForm);
   };
 
-  const closeLoginForm = (showLoginForm) => {
+  const closeLoginForm = () => {
     if (showLoginForm === true) {
       setShowLoginForm(false);
     }
   };
 
-  const closeSignInForm = (showSignInForm) => {
+  const closeSignInForm = () => {
     if (showSignInForm === true) {
       setShowSignInForm(false);
     }
@@ -34,4 +34,20 @@ export const useToggleForm = () => {
     closeSignInForm,
     closeLoginForm,
   ];
+};
+
+export const useToggleNavMenu = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const openNavMenu = () => {
+    return setIsOpen(!isOpen);
+  };
+
+  const closeNavMenu = () => {
+    if (isOpen === true) {
+      return setIsOpen(false);
+    }
+  };
+
+  return [isOpen, openNavMenu, closeNavMenu];
 };

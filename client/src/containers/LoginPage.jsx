@@ -6,7 +6,7 @@ const LoginPage = (props) => {
   const { showLoginForm, closeLoginForm } = props;
   return (
     <div id="login-page" className="login-page container-fluid">
-      {showLoginForm ? <LoginForm close={() => closeLoginForm()} /> : ''}
+      {showLoginForm ? <LoginForm closeForm={closeLoginForm} /> : ''}
     </div>
   );
 };

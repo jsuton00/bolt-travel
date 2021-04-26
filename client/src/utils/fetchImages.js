@@ -2,7 +2,7 @@ import mapIcon from '../assets/icons/place-icon.svg';
 
 export const brandLogo = {
   src:
-    'https://res.cloudinary.com/jsuton00/image/upload/v1602077290/Bolt%20Travel%20Images/websiteLogos/Bolt-Travel-Logo-Square-With-Plain-Background_tmaicn.png',
+    'https://res.cloudinary.com/jsuton00/image/upload/v1619122076/Bolt%20Travel%20Images/websiteLogos/bolt-travel-logo.png',
   altText: 'Bolt Travel',
 };
 

@@ -5,7 +5,7 @@ const SignUpPage = (props) => {
   const { showSignInForm, closeSignInForm } = props;
   return (
     <div id="signUp-page" className="sign-up-page container-fluid">
-      {showSignInForm ? <SignUpForm close={closeSignInForm} /> : ''}
+      {showSignInForm ? <SignUpForm closeForm={closeSignInForm} /> : ''}
     </div>
   );
 };

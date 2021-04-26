@@ -2,7 +2,13 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 export const NavHeaderLinks = (props) => {
-  const { navLinks } = props;
+  const { navLinks, closeMenu, width } = props;
+
+  const handleClick = () => {
+    if (width < 1078) {
+      return closeMenu();
+    }
+  };
 
   return (
     <>
@@ -13,6 +19,7 @@ export const NavHeaderLinks = (props) => {
               key={index}
               to={link === 'homes' ? `/${link}` : `/${link}`}
               className="nav-header-navLinks-item"
+              onClick={handleClick}
             >
               <div className="nav-header-navLinks-link">
                 {link === 'products' ? 'homes' : link}
