@@ -11,7 +11,7 @@ const FeaturedListings = () => {
       id="featured-listings-section"
       className="featured-listings-section container-fluid"
     >
-      <div className="featured-listings-content container-fluid">
+      <div className="featured-listings-content container">
         <div className="featured-listings-headings row">
           <h3 className="featured-listings-title row">Featured Listings</h3>
           <p className="featured-listings-text row">

@@ -10,7 +10,7 @@ const HomePage = () => {
   const location = useLocation();
   return (
     <div id="home-page" className="home-page container-fluid">
-      <div className="page-section service-section row">
+      <div className="page-section service-section container row">
         <div className="page-section-content service-section-content">
           <h3 className="page-section-title service-section-title row">
             Our Services
@@ -20,7 +20,7 @@ const HomePage = () => {
       </div>
       <FeaturedListings />
       <div className="page-section why-us-section row">
-        <div className="page-section-content why-us-content">
+        <div className="page-section-content why-us-content container">
           <WhyUs location={location} />
           <OurQualities location={location} />
         </div>

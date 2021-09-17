@@ -32,7 +32,7 @@ export const OurQualities = (props) => {
   });
 
   return (
-    <div className="quality-section">
+    <div className="quality-section container">
       {location && location.pathname === '/' ? (
         <h4 className="quality-heading">Our Qualities</h4>
       ) : (
