@@ -20,7 +20,7 @@ const HomePage = () => {
       </div>
       <FeaturedListings />
       <div className="page-section why-us-section row">
-        <div className="page-section-content why-us-content container">
+        <div className="page-section-content why-us-content">
           <WhyUs location={location} />
           <OurQualities location={location} />
         </div>

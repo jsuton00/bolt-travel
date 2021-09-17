@@ -81,7 +81,7 @@ export const NameCards = () => {
   }, []);
 
   return (
-    <div id="business-name-cards" className="business-name-cards row">
+    <div id="business-name-cards" className="business-name-cards container row">
       {names.length > 0 &&
         names.map((n, i) => {
           return (

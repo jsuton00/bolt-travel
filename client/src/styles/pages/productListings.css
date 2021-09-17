@@ -6,17 +6,17 @@
 .product-listings-content {
   width: 100%;
   max-width: 100%;
-  height: calc(100% - 12.8vh);
   margin: 0 auto;
 }
 
 .products-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
   grid-template-rows: auto;
   gap: 1rem;
   justify-content: space-around;
   align-items: center;
+  align-content: center;
   width: 100%;
   max-width: 100%;
   height: 100%;
